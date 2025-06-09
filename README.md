@@ -10,7 +10,7 @@ As a **FULL Stack developer**, I've been creating websites on my own for over a 
 I love technology and I'm always looking to stay updated with what's new, exploring how it evolves and how I can grow along with it. My goal is to contribute, even if it's just a small grain of sand, to the development of solutions that truly make a difference in people's lives.
 ## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongo,mysql,git,java,linux,github,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,c,cs,Angular,SSMS,mysql,git,java,linux,github,bash,php,py)](https://skillicons.dev)
 
 ## 📚 In Process
 
